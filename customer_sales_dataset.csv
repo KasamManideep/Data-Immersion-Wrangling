@@ -1,0 +1,51 @@
+customer_id,name,age,product,sales,order_date
+CUST001,Gabriel Solomon,34,Monitor,39387.37,2025-01-04
+CUST002,Steven Maddox,23,Mouse,18233.06,2025-02-02
+CUST003,Judy Richard,35,Mouse,1627.05,2025-05-25
+CUST004,Michael Miller,41,Speaker,49643.46,2025-05-09
+CUST005,Cory Harris,24,Keyboard,34354.96,2025-05-18
+CUST006,Robert Moran,20,Printer,12514.76,2025-01-22
+CUST007,Andrew Chase,21,Laptop,29043.11,2025-04-08
+CUST008,Danielle Wiggins,51,Smart Watch,19539.88,2025-05-06
+CUST009,Anne Phillips,32,Mouse,37259.59,2025-02-14
+CUST010,Megan Wilson,27,Mobile,43290.45,2025-04-01
+CUST011,Joy White,19,Monitor,44566.47,2025-02-06
+CUST012,Mary Lee,45,Mobile,2918.27,2025-03-21
+CUST013,John Rogers,53,Printer,19369.13,2025-04-06
+CUST014,Stephanie Brown,57,Headphones,27460.9,2025-05-27
+CUST015,Mrs. Angela Henson,52,Keyboard,48780.19,2025-02-18
+CUST016,Daniel Cooke,25,Mobile,39104.19,2025-03-29
+CUST017,Ryan Jones,55,Keyboard,48299.84,2025-05-27
+CUST018,Jennifer Brown,31,Monitor,24034.75,2025-05-29
+CUST019,Heather Cobb,45,Keyboard,31882.86,2025-05-15
+CUST020,Kristi Willis,42,Tablet,33701.28,2025-02-12
+CUST021,Katie Hill,26,Monitor,11376.61,2025-02-23
+CUST022,Gina Smith,52,Keyboard,15494.3,2025-05-26
+CUST023,Susan Kennedy,54,Laptop,18065.68,2025-04-16
+CUST024,Brittany Carter,41,Laptop,44193.37,2025-05-21
+CUST025,Mary Mata,20,Headphones,24333.53,2025-05-21
+CUST026,Lori Rogers,43,Tablet,22059.18,2025-02-13
+CUST027,Ryan Cervantes,19,Mouse,21447.33,2025-01-07
+CUST028,Jennifer Osborne,59,Keyboard,31730.38,2025-04-04
+CUST029,Kevin Meyers,59,Mouse,37063.62,2025-02-14
+CUST030,Christian Cross,27,Speaker,24189.85,2025-05-08
+CUST031,Aaron Benton,19,Tablet,2567.77,2025-04-06
+CUST032,Veronica Ross,60,Printer,35914.89,2025-02-28
+CUST033,Kimberly West,18,Laptop,30092.74,2025-05-17
+CUST034,Kelly Andrews,18,Printer,34073.4,2025-05-04
+CUST035,Tracy Ross,42,Headphones,10736.86,2025-02-21
+CUST036,Michael Elliott,25,Keyboard,45336.8,2025-03-05
+CUST037,Richard Roberts,34,Mouse,3162.05,2025-01-30
+CUST038,Jennifer Young,46,Laptop,35134.03,2025-03-29
+CUST039,Rachel Williams,28,Laptop,5413.34,2025-05-03
+CUST040,Nancy Smith,57,Mouse,21503.64,2025-05-06
+CUST041,Jeremy James,55,Smart Watch,39346.44,2025-05-06
+CUST042,Patricia Rodriguez,38,Smart Watch,32721.14,2025-01-29
+CUST043,Caitlin Wheeler,18,Monitor,37404.45,2025-01-29
+CUST044,David Johnson,41,Headphones,24060.0,2025-03-02
+CUST045,Nichole Cooper,25,Mobile,26895.47,2025-03-04
+CUST046,Jerry Ruiz,18,Headphones,8876.08,2025-01-27
+CUST047,Mario Rogers,28,Laptop,12101.93,2025-04-18
+CUST048,Chelsea Frey,56,Tablet,30795.18,2025-05-09
+CUST049,Aaron Robinson,58,Tablet,28188.0,2025-03-13
+CUST050,Andrea Watson,46,Monitor,31686.23,2025-03-24
